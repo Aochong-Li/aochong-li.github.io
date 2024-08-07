@@ -6,16 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year Computer Science PhD student at Cornell University. I work on Natural Langauge Processing and Machine Learning. I received my undergraduate degree from Columbia University, where I became interested in NLP and I was fortunate to be advised by [Zhou Yu](https://www.cs.columbia.edu/~zhouyu/) and [Smaranda Muresan](https://www.cs.columbia.edu/~smara/). Before Cornell, I worked as a quant researcher in Global Stock Selection team at [AQR Capital Management](https://www.aqr.com/) for a year. For more details, please see my [CV] (/files/Aochong_Li_CV.pdf)
+I am a first-year Computer Science PhD student at Cornell University. I work on Natural Langauge Processing and Machine Learning. I received my undergraduate degree from Columbia University, where I became interested in NLP and I was fortunate to be advised by [Zhou Yu](https://www.cs.columbia.edu/~zhouyu/) and [Smaranda Muresan](https://www.cs.columbia.edu/~smara/). Before Cornell, I worked as a quant researcher in Global Stock Selection team at [AQR Capital Management](https://www.aqr.com/) for a year. For more details, please see my [CV](/files/Aochong_Li_CV.pdf)
 
 My legal name is Aochong, but my friends have always called me Oliver, which I used on my publications while at Columbia.
 
 News
-====
+======
 * **Aug 2024** I recently joined Cornell NLP group. Excited to collaborate with different professors on interesting topics!
 
 Contact Me
-====
+======
 Feel free to email me if you want to collaborate on papers or simply chat about research ideas. I'm also happy to chat with strongly motivated undergraduates.
 
 
