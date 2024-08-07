@@ -3,10 +3,10 @@ title: "Affective Idiosyncratic Responses to Music"
 collection: publications
 permalink: /publication/affectiveresponsestomusic-number-1
 excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
-date: 
+date: 2022-10-17
 venue: 'EMNLP 2022'
 slidesurl: 
-paperurl: 'https://arxiv.org/abs/2210.09396'
+paperurl: 'https://aclanthology.org/2022.emnlp-main.80/'
 citation: 
 ---
 
