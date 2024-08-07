@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Mr."
+title                    : "Aochong Li"
 title_separator          : "-"
 name                     : &name "Aochong Li"
 description              : &description "personal description"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Aochong (Oliver) Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Hi, I am Aochong Li (my Chinese name 李奡翀). I often go by Oliver. I'm interested in making language models factual and integrating intelligent systems into everyday life."
+  location         : "Ithaca, NY"
+  employer         : "Cornell University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "al2644@cornell.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
