@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic.png"
   name             : "Aochong (Oliver) Li"
   pronouns         : # example: "she/her"  
-  bio              : "Hi, I am Aochong Li (my Chinese name 李奡翀). I often go by Oliver. I'm interested in making language models factual and integrating intelligent systems into everyday life."
+  bio              : "Hi, I am Aochong Li (my Chinese name 李奡翀). I usually go by Oliver."
   location         : "Ithaca, NY"
   employer         : "Cornell University"
   uri              : # URL
