@@ -6,7 +6,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year Computer Science PhD student at Cornell University. I work on Natural Langauge Processing and Machine Learning. Before Cornell, I have worked as a quant researcher in Global Stock Selection team at [AQR Capital Management](https://www.aqr.com/) for a year. I received my undergraduate degree from Columbia University, where I became interested in NLP and fortunately advised by [Zhou Yu](https://www.cs.columbia.edu/~zhouyu/) and [Smaranda Muresan](https://www.cs.columbia.edu/~smara/).
+I am a first-year Computer Science PhD student at Cornell University. I work on Natural Langauge Processing and Machine Learning. I received my undergraduate degree from Columbia University, where I became interested in NLP and I was fortunate to be advised by [Zhou Yu](https://www.cs.columbia.edu/~zhouyu/) and [Smaranda Muresan](https://www.cs.columbia.edu/~smara/). Before Cornell, I worked as a quant researcher in Global Stock Selection team at [AQR Capital Management](https://www.aqr.com/) for a year. For more details, please see my [CV] (/files/Aochong_Li_CV.pdf)
+
+My legal name is Aochong, but my friends have always called me Oliver, which I used on my publications while at Columbia.
+
+News
+====
+* **Aug 2024** I recently joined Cornell NLP group. Excited to collaborate with different professors on interesting topics!
+
+Contact Me
+====
+Feel free to email me if you want to collaborate on papers or simply chat about research ideas. I'm also happy to chat with strongly motivated undergraduates.
+
 
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
