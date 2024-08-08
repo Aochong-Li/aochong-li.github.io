@@ -11,11 +11,19 @@ I am a first-year Computer Science PhD student at Cornell University. I work on 
 My legal name is Aochong, but my friends have always called me Oliver, which I used on my publications while at Columbia.
 
 News
-======
+------
 * **Aug 2024** I recently joined Cornell NLP group. Excited to collaborate with different professors on interesting topics!
 
+
+Publications
+------
+For my latest published papers, please check out my [Google Scholar](https://scholar.google.com/citations?user=rZ186jcAAAAJ&hl=en)
+
+
+
+
 Contact Me
-======
+------
 Feel free to email me if you want to collaborate on papers or simply chat about research ideas. I'm also happy to chat with strongly motivated undergraduates.
 
 
