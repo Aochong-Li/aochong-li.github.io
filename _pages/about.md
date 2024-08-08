@@ -10,28 +10,29 @@ I am a first-year Computer Science Ph.D. student at Cornell University. I work o
 
 My legal name is Aochong, but my friends have always called me Oliver, which I used on my publications while at Columbia.
 
-News
-------
+# News
+**------**
 * **Aug 2024** I recently joined Cornell NLP group. Excited to collaborate with different professors on interesting topics!
 
 
-Publications
-------
+# Publications
+**------**
 <span style="font-size: 0.8em; font-style: italic;">For my latest published papers, please check out my [Google Scholar](https://scholar.google.com/citations?user=rZ186jcAAAAJ&hl=en)</span>
 
-<p style="line-height: 1.2; margin: 0;">
+<p style="line-height: 1.2; margin: 0 0 20px 0;">
 <a href="https://aclanthology.org/2023.emnlp-main.974/" style="text-decoration:none">NormDial: A comparable bilingual synthetic dialog dataset for modeling social norm adherence and violation</a><br>
 <strong>Oliver Li</strong>, Mallika Subramanian, Arkadiy Saakyan, Sky CH-Wang, Smaranda Muresan<br>
 <em>EMNLP</em> 2023
 </p>
 
-<p style="line-height: 1.2; margin: 0;">
+
+<p style="line-height: 1.2; margin: 0 0 20px 0;">
 <a href="https://aclanthology.org/2023.emnlp-main.215/" style="text-decoration:none">Sociocultural norm similarities and differences via situational alignment and explainable textual entailment</a><br>
 Sky CH-Wang<sup><strong>\*</strong></sup>, Arkadiy Saakyan<sup><strong>\*</strong></sup>, <strong>Oliver Li</strong>, Zhou Yu, Smaranda Muresan<br>
 <em>EMNLP</em> 2023
 </p>
 
-<p style="line-height: 1.2; margin: 0;">
+<p style="line-height: 1.2; margin: 0 0 20px 0;">
 <a href="https://aclanthology.org/2022.emnlp-main.80/" style="text-decoration:none">Affective Idiosyncratic Responses to Music</a><br>
 Sky CH-Wang, Evan Li, <strong>Oliver Li</strong>, Smaranda Muresan, Zhou Yu<br>
 <em>EMNLP</em> 2022
@@ -41,7 +42,6 @@ Contact Me
 ------
 Feel free to email me if you want to collaborate on papers or simply chat about research ideas. I'm also happy to chat with strongly motivated undergraduates.
 
-# Template below
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
