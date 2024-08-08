@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year Computer Science PhD student at Cornell University. I work on Natural Langauge Processing and Machine Learning. I received my undergraduate degree from Columbia University, where I became interested in NLP and I was fortunate to be advised by [Zhou Yu](https://www.cs.columbia.edu/~zhouyu/) and [Smaranda Muresan](https://www.cs.columbia.edu/~smara/). Before Cornell, I worked as a quant researcher in Global Stock Selection team at [AQR Capital Management](https://www.aqr.com/) for a year. For more details, please see my [CV](/files/Aochong_Li_CV.pdf)
+I am a first-year Computer Science Ph.D. student at Cornell University. I work on Natural Langauge Processing and Machine Learning. I received my undergraduate degree from Columbia University, where I became interested in NLP and I was fortunate to be advised by [Zhou Yu](https://www.cs.columbia.edu/~zhouyu/) and [Smaranda Muresan](https://www.cs.columbia.edu/~smara/). Before Cornell, I worked as a quant researcher in Global Stock Selection team at [AQR Capital Management](https://www.aqr.com/) for a year. For more details, please see my [CV](/files/Aochong_Li_CV.pdf)
 
 My legal name is Aochong, but my friends have always called me Oliver, which I used on my publications while at Columbia.
 
@@ -19,16 +19,22 @@ Publications
 ------
 For my latest published papers, please check out my [Google Scholar](https://scholar.google.com/citations?user=rZ186jcAAAAJ&hl=en)
 
-[NormDial: A comparable bilingual synthetic dialog dataset for modeling social norm adherence and violation](https://aclanthology.org/2023.emnlp-main.974/)
+<a href="https://aclanthology.org/2023.emnlp-main.974/" style="text-decoration:none">NormDial: A comparable bilingual synthetic dialog dataset for modeling social norm adherence and violation</a>
+
 **Oliver Li**, Mallika Subramanian, Arkadiy Saakyan, Sky CH-Wang, Smaranda Muresan
+
 *EMNLP* 2023
 
-[Sociocultural norm similarities and differences via situational alignment and explainable textual entailment](https://aclanthology.org/2023.emnlp-main.215/)
+<a href="https://aclanthology.org/2023.emnlp-main.215/" style="text-decoration:none">Sociocultural norm similarities and differences via situational alignment and explainable textual entailment</a>
+
 Sky CH-Wang<sup>\*</sup>, Arkadiy Saakyan<sup>\*</sup>, **Oliver Li**, Zhou Yu, Smaranda Muresan
+
 *EMNLP* 2023
 
-[Affective Idiosyncratic Responses to Music](https://aclanthology.org/2022.emnlp-main.80/)
+<a href="https://aclanthology.org/2022.emnlp-main.80/" style="text-decoration:none">Affective Idiosyncratic Responses to Music</a>
+
 Sky CH-Wang, Evan Li, **Oliver Li**, Smaranda Muresan, Zhou Yu
+
 *EMNLP* 2022
 
 
