@@ -70,9 +70,9 @@ for row, item in publications.iterrows():
     
     ## YAML variables
     
-    md = "\ntitle: \""   + item.title + '"\n'
+    md = "---\ntitle: \""   + item.title + '"\n'
     
-    md += """collection: publications"""
+    # md += """collection: publications"""
     
     md += """\npermalink: /publication/""" + html_filename
     
@@ -88,7 +88,7 @@ for row, item in publications.iterrows():
     
     # md += "\ncitation: '" + html_escape(item.citation) + "'"
     
-    md += "\n"
+    md += "\n---"
     
     ## Markdown description for individual page
     
