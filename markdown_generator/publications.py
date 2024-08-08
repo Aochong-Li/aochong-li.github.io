@@ -70,11 +70,14 @@ for row, item in publications.iterrows():
     
     ## YAML variables
     
-    md = "---\ntitle: \""   + item.title + '"\n'
+    # if len(str(item.paper_url)) > 5:
+    #     md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
+        
+    md = "\n\n<a href='" + item.paper_url + ">title: \""   + item.title + '"\n'
     
     # md += """collection: publications"""
     
-    md += """\npermalink: /publication/""" + html_filename
+    # md += """\npermalink: /publication/""" + html_filename
     
     if len(str(item.excerpt)) > 5:
         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
@@ -88,17 +91,17 @@ for row, item in publications.iterrows():
     
     # md += "\ncitation: '" + html_escape(item.citation) + "'"
     
-    md += "\n---"
+    # md += "\n---"
     
     ## Markdown description for individual page
     
-    if len(str(item.paper_url)) > 5:
-        md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
+    # if len(str(item.paper_url)) > 5:
+    #     md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
         
-    if len(str(item.excerpt)) > 5:
-        md += "\n" + html_escape(item.excerpt) + "\n"
+    # if len(str(item.excerpt)) > 5:
+    #     md += "\n" + html_escape(item.excerpt) + "\n"
         
-    md += "\nRecommended citation: " + item.citation
+    # md += "\nRecommended citation: " + item.citation
     
     md_filename = os.path.basename(md_filename)
        
