@@ -20,10 +20,8 @@ Publications
 For my latest published papers, please check out my [Google Scholar](https://scholar.google.com/citations?user=rZ186jcAAAAJ&hl=en)
 
 <a href="https://aclanthology.org/2023.emnlp-main.974/" style="text-decoration:none">NormDial: A comparable bilingual synthetic dialog dataset for modeling social norm adherence and violation</a>
-
-**Oliver Li**, Mallika Subramanian, Arkadiy Saakyan, Sky CH-Wang, Smaranda Muresan
-
-*EMNLP* 2023
+\**Oliver Li**, Mallika Subramanian, Arkadiy Saakyan, Sky CH-Wang, Smaranda Muresan
+\*EMNLP* 2023
 
 <a href="https://aclanthology.org/2023.emnlp-main.215/" style="text-decoration:none">Sociocultural norm similarities and differences via situational alignment and explainable textual entailment</a>
 
