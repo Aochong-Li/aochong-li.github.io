@@ -10,14 +10,14 @@ I am a first-year Computer Science Ph.D. student at Cornell University. I work o
 
 My legal name is Aochong, but my friends have always called me Oliver, which I used on my publications while at Columbia.
 
-# News
-**------**
+News
+------
 * **Aug 2024** I recently joined Cornell NLP group. Excited to collaborate with different professors on interesting topics!
 
 
-# Publications
-**------**
-<span style="font-size: 0.8em; font-style: italic;">For my latest published papers, please check out my [Google Scholar](https://scholar.google.com/citations?user=rZ186jcAAAAJ&hl=en)</span>
+Publications
+------
+<span style="font-size: 0.8em; font-style: italic;">Note: for my latest published papers, please check out my [Google Scholar](https://scholar.google.com/citations?user=rZ186jcAAAAJ&hl=en)</span>
 
 <p style="line-height: 1.2; margin: 0 0 20px 0;">
 <a href="https://aclanthology.org/2023.emnlp-main.974/" style="text-decoration:none">NormDial: A comparable bilingual synthetic dialog dataset for modeling social norm adherence and violation</a><br>
@@ -28,7 +28,7 @@ My legal name is Aochong, but my friends have always called me Oliver, which I u
 
 <p style="line-height: 1.2; margin: 0 0 20px 0;">
 <a href="https://aclanthology.org/2023.emnlp-main.215/" style="text-decoration:none">Sociocultural norm similarities and differences via situational alignment and explainable textual entailment</a><br>
-Sky CH-Wang<sup><strong>\*</strong></sup>, Arkadiy Saakyan<sup><strong>\*</strong></sup>, <strong>Oliver Li</strong>, Zhou Yu, Smaranda Muresan<br>
+Sky CH-Wang<sup><strong>*</strong></sup>, Arkadiy Saakyan<sup><strong>*</strong></sup>, <strong>Oliver Li</strong>, Zhou Yu, Smaranda Muresan<br>
 <em>EMNLP</em> 2023
 </p>
 
