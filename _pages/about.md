@@ -17,7 +17,7 @@ News
 
 Publications
 ------
-<span style="font-size: 0.8em; font-style: italic;">Note: for my latest published papers, please check out my [Google Scholar](https://scholar.google.com/citations?user=rZ186jcAAAAJ&hl=en)</span>
+<span style="font-size: 0.8em; font-style: italic;">Note: for my latest published papers, please check out my <a href="https://scholar.google.com/citations?user=rZ186jcAAAAJ&hl=en" style="text-decoration:none">Google Scholar</a></span>
 
 <p style="line-height: 1.2; margin: 0 0 20px 0;">
 <a href="https://aclanthology.org/2023.emnlp-main.974/" style="text-decoration:none">NormDial: A comparable bilingual synthetic dialog dataset for modeling social norm adherence and violation</a><br>
