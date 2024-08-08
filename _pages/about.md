@@ -17,7 +17,7 @@ News
 
 Publications
 ------
-For my latest published papers, please check out my [Google Scholar](https://scholar.google.com/citations?user=rZ186jcAAAAJ&hl=en)
+<span style="font-size: 0.8em; font-style: italic;">For my latest published papers, please check out my [Google Scholar](https://scholar.google.com/citations?user=rZ186jcAAAAJ&hl=en)</span>
 
 <p style="line-height: 1.2; margin: 0;">
 <a href="https://aclanthology.org/2023.emnlp-main.974/" style="text-decoration:none">NormDial: A comparable bilingual synthetic dialog dataset for modeling social norm adherence and violation</a><br>
@@ -25,18 +25,17 @@ For my latest published papers, please check out my [Google Scholar](https://sch
 <em>EMNLP</em> 2023
 </p>
 
-<a href="https://aclanthology.org/2023.emnlp-main.215/" style="text-decoration:none">Sociocultural norm similarities and differences via situational alignment and explainable textual entailment</a>
+<p style="line-height: 1.2; margin: 0;">
+<a href="https://aclanthology.org/2023.emnlp-main.215/" style="text-decoration:none">Sociocultural norm similarities and differences via situational alignment and explainable textual entailment</a><br>
+Sky CH-Wang<sup><strong>\*</strong></sup>, Arkadiy Saakyan<sup><strong>\*</strong></sup>, <strong>Oliver Li</strong>, Zhou Yu, Smaranda Muresan<br>
+<em>EMNLP</em> 2023
+</p>
 
-Sky CH-Wang<sup>\*</sup>, Arkadiy Saakyan<sup>\*</sup>, **Oliver Li**, Zhou Yu, Smaranda Muresan
-
-*EMNLP* 2023
-
-<a href="https://aclanthology.org/2022.emnlp-main.80/" style="text-decoration:none">Affective Idiosyncratic Responses to Music</a>
-
-Sky CH-Wang, Evan Li, **Oliver Li**, Smaranda Muresan, Zhou Yu
-
-*EMNLP* 2022
-
+<p style="line-height: 1.2; margin: 0;">
+<a href="https://aclanthology.org/2022.emnlp-main.80/" style="text-decoration:none">Affective Idiosyncratic Responses to Music</a><br>
+Sky CH-Wang, Evan Li, <strong>Oliver Li</strong>, Smaranda Muresan, Zhou Yu<br>
+<em>EMNLP</em> 2022
+</p>
 
 Contact Me
 ------
