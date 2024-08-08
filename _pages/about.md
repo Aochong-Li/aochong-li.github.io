@@ -19,14 +19,24 @@ Publications
 ------
 For my latest published papers, please check out my [Google Scholar](https://scholar.google.com/citations?user=rZ186jcAAAAJ&hl=en)
 
+[NormDial: A comparable bilingual synthetic dialog dataset for modeling social norm adherence and violation](https://aclanthology.org/2023.emnlp-main.974/)
+**Oliver Li**, Mallika Subramanian, Arkadiy Saakyan, Sky CH-Wang, Smaranda Muresan
+*EMNLP* 2023
 
+[Sociocultural norm similarities and differences via situational alignment and explainable textual entailment](https://aclanthology.org/2023.emnlp-main.215/)
+Sky CH-Wang<sup>\*</sup>, Arkadiy Saakyan<sup>\*</sup>, **Oliver Li**, Zhou Yu, Smaranda Muresan
+*EMNLP* 2023
+
+[Affective Idiosyncratic Responses to Music](https://aclanthology.org/2022.emnlp-main.80/)
+Sky CH-Wang, Evan Li, **Oliver Li**, Smaranda Muresan, Zhou Yu
+*EMNLP* 2022
 
 
 Contact Me
 ------
 Feel free to email me if you want to collaborate on papers or simply chat about research ideas. I'm also happy to chat with strongly motivated undergraduates.
 
-
+# Template below
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
