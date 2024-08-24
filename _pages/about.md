@@ -42,7 +42,7 @@ Contact Me
 ------
 Feel free to email me if you want to collaborate on papers or simply chat about research ideas. I'm also happy to chat with strongly motivated undergraduates.
 
-Random Blog
+Random Blogging
 ------
 I am recently interested in the <a href="https://www.sequoiacap.com/article/generative-ai-act-two/" style="text-decoration:none">"Act 2"</a> in the era of AI revolution. ChatGPT is introduced in 2022, and now is 2024. I think this wave of technology revolution has a lot of similarities to the dot com revolution in the 90s. 1. people are amazed by the power of this new technology and have strong conviction that it is gonna change the future but have little idea of how. 2. a plethora of similar startups doing similar products and involve a lot of competitions and many unrelated companies will have their valuations double just by dropping a ".ai" at the end of their company name 3. it is unclear who is gonna be the big winner and big loser (openai used to be leading the industry fronotier by a big margin compared the second one in race, but now with meta, anthropic, google, mistral, ... catching up very quickly)
 
