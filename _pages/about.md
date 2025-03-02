@@ -7,7 +7,7 @@ redirect_from:
 ---
 I research AI and large langauge models (LLMs) as a Computer Science PhD student at <a href="https://www.cornell.edu/" style="text-decoration:none">Cornell</a>. I received my Bachelor's from <a href="https://www.columbia.edu/" style="text-decoration:none">Columbia University</a>, where I was fortunate to be advised by <a href="https://www.cs.columbia.edu/~zhouyu/" style="text-decoration:none">Zhou Yu</a> and <a href="https://www.cs.columbia.edu/~smara/" style="text-decoration:none">Smaranda Muresan</a>. For more details, please see my <a href="/files/Aochong_Li_Resume.pdf" style="text-decoration:none">resume</a>.
 
-If you want to collaborate with me on research, please reach out to me via <a href="al2644@cornell.edu" style="text-decoration:none"> email</a>
+If you want to collaborate with me on research, please reach out to me via <a href="mailto:al2644@cornell.edu" style="text-decoration:none">email</a>.
 
 News
 ------
