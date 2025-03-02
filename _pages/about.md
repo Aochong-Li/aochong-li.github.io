@@ -6,11 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year Computer Science Ph.D. student at Cornell University. I work on Natural Langauge Processing and Machine Learning. I received my undergraduate degree from Columbia University, where I became interested in NLP and I was fortunate to be advised by <a href="https://www.cs.columbia.edu/~zhouyu/" style="text-decoration:none">Zhou Yu</a> and <a href="https://www.cs.columbia.edu/~smara/" style="text-decoration:none">Smaranda Muresan</a>. Before Cornell, I worked as a quant researcher in Global Stock Selection team at <a href="https://www.aqr.com/" style="text-decoration:none">AQR Capital Management</a> for a year. For more details, please see my <a href="/files/Aochong_Li_CV.pdf" style="text-decoration:none">CV</a>.
+I research AI and large langauge models (LLMs) as a Computer Science PhD student at <a href="https://www.cornell.edu/" style="text-decoration:none">Cornell</a> . I received my Bachelor's from <a href="https://www.columbia.edu/" style="text-decoration:none">Columbia University</a>, where I was fortunate to be advised by <a href="https://www.cs.columbia.edu/~zhouyu/" style="text-decoration:none">Zhou Yu</a> and <a href="https://www.cs.columbia.edu/~smara/" style="text-decoration:none">Smaranda Muresan</a>. For more details, please see my <a href="/files/Aochong_Li_Resume.pdf" style="text-decoration:none">resume</a>.
+
+If you want to collaborate with me on research, please reach out to me via <a href="al2644@cornell.edu" style="text-decoration:none"> email</a>
 
 News
 ------
-* **Aug 2024** I recently joined Cornell NLP group. Excited to collaborate with different professors on interesting topics!
+* **March 2025** Check out my first paper at Cornell: <a href="/files/Knowledge_Conflicts_in_Language_Models__Continual_Learning_preprint.pdf" style="text-decoration:none">Benchmarking and Improving Conflicting New Knowledge Acquisition during Continued Pre-training</a><br>
+
+* **Aug 2024** I joined Cornell NLP group. Excited to collaborate with different professors on interesting topics!
 
 
 Publications
