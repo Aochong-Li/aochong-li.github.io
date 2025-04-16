@@ -11,7 +11,7 @@ If you want to collaborate with me on research, please reach out to me via <a hr
 
 News
 ------
-* **March 2025** Check out my first paper at Cornell: <a href="/files/Knowledge_Conflicts_in_Language_Models__Continual_Learning_preprint.pdf" style="text-decoration:none">Benchmarking and Improving Conflicting New Knowledge Acquisition during Continued Pre-training</a><br>
+* **March 2025** Check out my first paper at Cornell: <a href="/files/Knowledge_Conflicts_in_Language_Models__Continual_Learning_preprint.pdf" style="text-decoration:none">Learning Knowledge Updates: LLMs Can Memorize But Not Reason  <em>yet</em></a><br>
 
 * **Aug 2024** I joined Cornell NLP group. Excited to collaborate with different professors on interesting topics!
 
@@ -21,7 +21,7 @@ Publications
 <span style="font-size: 0.8em; font-style: italic;">Note: for my latest published papers, please check out my <a href="https://scholar.google.com/citations?user=rZ186jcAAAAJ&hl=en" style="text-decoration:none">Google Scholar</a></span>
 
 <p style="line-height: 1.2; margin: 0 0 20px 0;">
-<a href="/files/Knowledge_Conflicts_in_Language_Models__Continual_Learning_preprint.pdf" style="text-decoration:none">Benchmarking and Improving Conflicting New Knowledge Acquisition during Continued Pre-training</a><br>
+<a href="/files/KUP.pdf" style="text-decoration:none">Learning Knowledge Updates: LLMs Can Memorize But Not Reason  <em>yet</em></a><br>
 <strong>Oliver Li</strong>, Tanya Goyal<br>
 <em>ACL</em> 2025 (under submission)
 </p>
