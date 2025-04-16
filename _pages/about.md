@@ -11,7 +11,7 @@ If you want to collaborate with me on research, please reach out to me via <a hr
 
 News
 ------
-* **March 2025** Check out my first paper at Cornell: <a href="/files/Knowledge_Conflicts_in_Language_Models__Continual_Learning_preprint.pdf" style="text-decoration:none">Learning Knowledge Updates: LLMs Can Memorize But Not Reason  <em>yet</em></a><br>
+* **March 2025** Check out my first paper at Cornell: <a href="/files/KUP.pdf" style="text-decoration:none">Learning Knowledge Updates: LLMs Can Memorize But Not Reason  <em>yet</em></a><br>
 
 * **Aug 2024** I joined Cornell NLP group. Excited to collaborate with different professors on interesting topics!
 
